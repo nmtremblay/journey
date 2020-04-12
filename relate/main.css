@@ -1,0 +1,85 @@
+html{
+    height: 600px;
+    width: 600px;
+}
+
+
+body{
+    height: 600px;
+    width: 600px;
+    background-color: rgb(251, 246, 232);
+}
+
+img {
+    margin-top:-10;
+    margin-left:-10;
+}
+
+#bottomWhite{
+    width: 602px;
+    height: 25px;
+    margin-top: 525px;
+    background-color: white;
+    position: absolute; 
+}
+
+.title1{
+    width: 180px;
+    height: 60px;
+    border-radius: 10%;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.title2{
+    width: 180px;
+    height: 60px;
+    border-radius: 10%;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.title3{
+    width: 180px;
+    height: 60px;
+    border-radius: 10%;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.titles{
+    display: flex;
+    flex-direction: row;
+    margin-left: -10;
+    flex-wrap: wrap;
+}
+
+.title4{
+    width: 180px;
+    height: 60px;
+    border-radius: 10%;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.title5{
+    width: 180px;
+    height: 60px;
+    border-radius: 10%;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.title6{
+    width: 180px;
+    height: 60px;
+    border-radius: 10%;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+}
